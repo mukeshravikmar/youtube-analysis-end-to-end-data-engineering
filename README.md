@@ -26,3 +26,7 @@ The objective of this project is to handle structured and semi-structured YouTub
 This Kaggle dataset includes statistics (CSV files) on the most popular YouTube videos every day for a number of months. Every day, up to 200 popular videos are released for various areas. Every region's data is contained in a separate file. Among the details in the data are the title of the video, the channel name, the publishing time, tags, views, likes and dislikes, description, and the number of comments. In the JSON file associated with the region, there is also a category_id field, which varies by area.
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
+
+
+## Architecture Diagram
+<img src="architecture.jpeg">
